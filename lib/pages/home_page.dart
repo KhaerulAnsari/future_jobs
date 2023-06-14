@@ -107,32 +107,6 @@ class HomePage extends StatelessWidget {
                           ),
                         );
                       }).toList(),
-
-                      // children: <Widget>[
-                      //   SizedBox(
-                      //     width: defaultMargin,
-                      //   ),
-                      //   CategoryCard(
-                      //     imageUrl: 'assets/image_category1.png',
-                      //     name: 'Web Developer',
-                      //   ),
-                      //   CategoryCard(
-                      //     imageUrl: 'assets/image_category2.png',
-                      //     name: 'Mobile Developer',
-                      //   ),
-                      //   CategoryCard(
-                      //     imageUrl: 'assets/image_category3.png',
-                      //     name: 'App Designer',
-                      //   ),
-                      //   CategoryCard(
-                      //     imageUrl: 'assets/image_category4.png',
-                      //     name: 'Content Writer',
-                      //   ),
-                      //   CategoryCard(
-                      //     imageUrl: 'assets/image_category5.png',
-                      //     name: 'Video Grapher',
-                      //   ),
-                      // ],
                     );
                   }
 
